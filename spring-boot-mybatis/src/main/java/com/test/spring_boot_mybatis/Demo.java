@@ -1,7 +1,7 @@
 package com.test.spring_boot_mybatis;
 
 public class Demo {
-	private long id;
+	private long id;//这个是id;
 	private String name;
 	public long getId() {
 		return id;
